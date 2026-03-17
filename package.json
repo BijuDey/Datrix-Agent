@@ -35,6 +35,14 @@
     "proxy"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BijuDey/Datrix-Agent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BijuDey/Datrix-Agent/issues"
+  },
+  "homepage": "https://github.com/BijuDey/Datrix-Agent#readme",
   "engines": {
     "node": ">=18"
   },
