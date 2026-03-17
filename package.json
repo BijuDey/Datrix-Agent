@@ -1,6 +1,6 @@
 {
   "name": "datrix-agent",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Local API Agent for Datrix API Studio",
   "type": "module",
   "main": "./dist/src/index.js",
